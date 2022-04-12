@@ -15,9 +15,7 @@ This project was created as a joint effort between [cph101](https://github.com/c
 4. Confirm the permissions message
 5. Launch the extension and follow the steps from there
 
-
-<details>
-<summary><h2>Can I make my own boxes?</h2></summary>
+## Can I make my own boxes?
 
 Making your own box is easy - you just need a good understanding of JSON. Example below:
 
@@ -54,4 +52,4 @@ Inside the `blooks` array, there are some more fields:
 
 
 Once you've done, you can upload your JSON to a place like GitHub, make sure you have the direct link, and share it with your friends!
-</details>
+
