@@ -42,3 +42,11 @@ There are 3 main fields:
 `boxPrice` - The price of the box - can be either **25, 20, or 15**. Numeric Value
 
 `blooks` - An array of the blooks - scroll down to learn more ->
+
+Inside the `blooks` array, there are some more fields:
+
+`blookName` - The name of the blook - String Value
+
+`imgSrc` - The url of the blook image, **it must be a svg** - String Value
+
+`blookRank` - The rank of the blook, determines sell price and rating - String Value
