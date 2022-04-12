@@ -17,7 +17,7 @@ This project was created as a joint effort between [cph101](https://github.com/c
 
 
 <details>
-<summary>## Can I make my own boxes?</summary>
+<summary><h2>Can I make my own boxes?</h2></summary>
 
 Making your own box is easy - you just need a good understanding of JSON. Example below:
 
