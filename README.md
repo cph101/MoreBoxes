@@ -12,7 +12,7 @@ This project was created as a joint effort between [cph101](https://github.com/c
 1. Download the packaged .crx from [here]()
 2. Enable developer mode in the extensions pane in Chrome
 3. Drag the extension right in
-4. Confirm the message
+4. Confirm the permissions message
 5. Launch the extension and follow the steps from there
 
 
