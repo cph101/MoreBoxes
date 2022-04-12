@@ -21,7 +21,17 @@ This project was created as a joint effort between [cph101](https://github.com/c
 Making your own box is easy - you just need a good understanding of JSON. Example below:
 
 ```JSON
-{"boxName":"Minecraft Box","blooks":[{"blookName":"Creeper","imgSrc":"https:\/\/res.cloudinary.com\/dfogayqhr\/image\/upload\/v1645525786\/svgviewer-output-7_astjsr.svg","blookRank":"Uncommon"}],"boxPrice":1}
+{
+    "boxName":"Minecraft Box",
+    "blooks":[
+        {
+            "blookName":"Creeper",
+            "imgSrc":"https:\/\/res.cloudinary.com\/dfogayqhr\/image\/upload\/v1645525786\/svgviewer-output-7_astjsr.svg",
+            "blookRank":"Uncommon"
+        }
+    ],
+    "boxPrice":1
+}
 ```
 
 
