@@ -50,3 +50,6 @@ Inside the `blooks` array, there are some more fields:
 `imgSrc` - The url of the blook image, **it must be a svg** - String Value
 
 `blookRank` - The rank of the blook, determines sell price and rating - String Value
+
+
+Once you've done, you can upload your JSON to a place like GitHub, make sure you have the direct link, and share it with your friends!
