@@ -1,0 +1,11 @@
+{
+    "boxName":"Minecraft Box",
+    "blooks":[
+        {
+            "blookName":"Creeper",
+            "imgSrc":"https:\/\/res.cloudinary.com\/dfogayqhr\/image\/upload\/v1645525786\/svgviewer-output-7_astjsr.svg",
+            "blookRank":"Uncommon"
+        }
+    ],
+    "boxPrice":1
+}
