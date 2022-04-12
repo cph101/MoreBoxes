@@ -21,6 +21,7 @@ This project was created as a joint effort between [cph101](https://github.com/c
 Making your own box is easy - you just need a good understanding of JSON.
 
 There are 3 main fields:
+
 `boxName` - The name of the box - String Value
 
 `boxPrice` - The price of the box - can be either **25, 20, or 15**. Numeric Value
